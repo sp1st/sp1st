@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ### Portfolio
--
-###### Portolio [Portolio](https://zasetu-portolio.vercel.app/cV7NFBe9VtbxFY7NDpETIuWXPPI2)
+###### Portolio
+- [Portolio](https://zasetu-portolio.vercel.app/cV7NFBe9VtbxFY7NDpETIuWXPPI2)
 - [リポジトリ](https://github.com/balckowl/portolio-new-3)
 - [旧リポジトリ](https://github.com/esusaki/portolio-backend)
 
