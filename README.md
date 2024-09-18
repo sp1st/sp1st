@@ -6,7 +6,7 @@
 - [旧リポジトリ](https://github.com/esusaki/Portolio-Backend-API)
 
 #### textval
-- [リポジトリ](https://github.com/enishi1014/Morphological-analysis)
+- [リポジトリ](https://github.com/enishi1014/Morphological-analysis)([デモ](https://github.com/esusaki/textval-demo))
 
 <!--
 **sp1st/sp1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
