@@ -7,7 +7,7 @@
 
 #### textval
 - [拡張機能](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob?hl=ja&utm_source=ext_sidebar)
-  - - [リポジトリ](https://github.com/enishi1014/Morphological-analysis)
+  - [リポジトリ](https://github.com/enishi1014/Morphological-analysis)
 - [デモ](https://demo-textval.vercel.app/)
   - [リポジトリ](https://github.com/esusaki/textval-demo.git)
 
