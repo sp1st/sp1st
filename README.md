@@ -6,7 +6,7 @@
 - [旧リポジトリ](https://github.com/esusaki/Portolio-Backend-API)
 
 #### textval
-- [拡張機能](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob?hl=ja&utm_source=ext_sidebar)
+- [textval](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob?hl=ja&utm_source=ext_sidebar)
   - [リポジトリ](https://github.com/enishi1014/Morphological-analysis)
 - [デモ](https://demo-textval.vercel.app/)
   - [リポジトリ](https://github.com/esusaki/textval-demo.git)
