@@ -2,8 +2,8 @@
 ### チーム開発
 #### Portolio
 - [Portolio](https://zasetu-portolio.vercel.app)
-- [リポジトリ](https://github.com/balckowl/portolio-new-3)
-- [旧リポジトリ](https://github.com/esusaki/Portolio-Backend-API)
+  - [リポジトリ](https://github.com/balckowl/portolio-new-3)
+  - [旧リポジトリ](https://github.com/esusaki/Portolio-Backend-API)
 
 #### textval
 - [textval](https://chromewebstore.google.com/detail/textval/edhdcmcmaiakchhcembkhonndipcmeob?hl=ja&utm_source=ext_sidebar)
