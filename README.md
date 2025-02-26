@@ -14,6 +14,9 @@
 #### taskEcho
 - [リポジトリ](https://github.com/jphacks/hs_2404)
 
+#### Room Pikapika Game
+- [リポジトリ](https://github.com/sp1st/silver-octo-system)
+
 <!--
 **sp1st/sp1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
