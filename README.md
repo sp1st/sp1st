@@ -12,7 +12,8 @@
   - [リポジトリ](https://github.com/esusaki/textval-demo.git)
 
 #### taskEcho
-- [リポジトリ](https://github.com/jphacks/hs_2404)
+- [リポジトリ(JPHACKS参加中)](https://github.com/jphacks/hs_2404)
+- [リポジトリ(継続開発)](https://github.com/hu-hicoder/taskEcho)
 
 #### Room Pikapika Game
 - [Room Pikapika Game](https://room-pikapika-game.vercel.app/)
