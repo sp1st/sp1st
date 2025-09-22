@@ -19,6 +19,9 @@
 - [Room Pikapika Game](https://room-pikapika-game.vercel.app/)
   - [リポジトリ](https://github.com/sp1st/silver-octo-system)
 
+#### WatchHealth
+- [リポジトリ](https://github.com/sp1st/fd-qiita-hackathon-2025)
+
 #### Nomina
 - [リポジトリ](https://github.com/sp1st/hicoder-ie-team2)
 
