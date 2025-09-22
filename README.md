@@ -19,6 +19,9 @@
 - [Room Pikapika Game](https://room-pikapika-game.vercel.app/)
   - [リポジトリ](https://github.com/sp1st/silver-octo-system)
 
+#### Nomina
+- [リポジトリ](https://github.com/sp1st/hicoder-ie-team2)
+
 <!--
 **sp1st/sp1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
